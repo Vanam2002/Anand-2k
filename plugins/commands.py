@@ -30,7 +30,7 @@ async def start(client, message):
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('֎ ʙᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ ֍', url=f'https://t.me/+WnZsXs_fNoM2M2U1')
+                    InlineKeyboardButton('֎ ʙᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ ֍', url=f'https://t.me/+FhfkpmeeOQg3NDJl')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ ᴍᴀɪɴ Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -55,7 +55,7 @@ async def start(client, message):
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('֎ ʙᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ ֍', url=f'https://t.me/+WnZsXs_fNoM2M2U1')
+                    InlineKeyboardButton('֎ ʙᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ ֍', url=f'https://t.me/+FhfkpmeeOQg3NDJl')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -105,7 +105,7 @@ async def start(client, message):
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('֎ ʙᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ ֍', url=f'https://t.me/+WnZsXs_fNoM2M2U1')
+                    InlineKeyboardButton('֎ ʙᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ ֍', url=f'https://t.me/+FhfkpmeeOQg3NDJl')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -292,7 +292,7 @@ async def start(client, message):
             [
              [
               InlineKeyboardButton('ʙᴀᴄᴋ ᴜᴘ ɢʀᴏᴜᴘ', url=GRP_LNK),
-              InlineKeyboardButton('ᴍᴀɪɴ Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+              InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
            ],[
               InlineKeyboardButton('❌ ᴅᴇʟᴇᴛᴇ ❌', callback_data='close_data')
              ]
