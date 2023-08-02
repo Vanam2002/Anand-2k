@@ -61,7 +61,7 @@ async def pm_text(bot, message):
     user_id = message.from_user.id
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
-    await message.reply_text("<b>ᴘʟᴇᴀsᴇ ᴊᴏɪɴ ᴀɴᴅ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ
+    await message.reply_text("</b>ᴘʟᴇᴀsᴇ ᴊᴏɪɴ ᴀɴᴅ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ
  👉🏻 http://telegram.me/+xqfxWxoePGs4ZWJl</b>")
     await bot.send_message(
         chat_id=LOG_CHANNEL,
